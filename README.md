@@ -1,2 +1,2 @@
 # OnlineHelpDesk
-Online Portal for Campus for Help Desk
+Online Portal for Campus Help Desk
